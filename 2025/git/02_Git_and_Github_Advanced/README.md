@@ -1,6 +1,7 @@
 # Week 4: Git & GitHub Advanced Challenge 
 
-This challenge covers advanced Git concepts essential for real-world DevOps workflows. By the end of this challenge, you will:  
+This challenge covers advanced Git concepts for DevOps workflows.
+By the end of this challenge, you will:  
 
 - Understand how to work with Pull Requests effectively.  
 - Learn to undo changes using Reset & Revert.  
